@@ -253,6 +253,10 @@
   .nav .nav-item + .nav-item {
     margin-top: 10px;  /* Replace 10px with your desired margin value */
   }
+
+  .nav .nav-item + .nav-item {
+    margin: 0%;
+  }
   
   /* Header
       ============================= */

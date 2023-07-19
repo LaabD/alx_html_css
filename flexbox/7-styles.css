@@ -251,7 +251,7 @@
   }
 
   .nav .nav-item + .nav-item {
-    margin: var(--nav-item-margin);
+    margin: 10px 20px 15px 5px;
   }
 
   

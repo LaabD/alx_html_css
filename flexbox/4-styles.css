@@ -185,7 +185,7 @@
   }
   
   ul.row {
-    margin: 0;
+    margin: -1rem;
     padding: 0;
     list-style: none;
   }
@@ -527,7 +527,7 @@
   [class*='col-']{
        margin: 1rem;
   }
-  
+
   ul.row {
     margin: 1rem;
   }

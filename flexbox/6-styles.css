@@ -209,6 +209,7 @@
     padding: 0;
     list-style: none;
     text-align: center;
+    display: flex;
   }
   
   .nav .nav-item {
@@ -250,7 +251,7 @@
   }
 
   .nav .nav-item + .nav-item {
-    margine: 1px;
+    margin: auto;
   }
   
   /* Header

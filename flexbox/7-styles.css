@@ -251,13 +251,9 @@
   }
 
   .nav .nav-item + .nav-item {
-    margin-top: 10px;  /* Replace 10px with your desired margin value */
+    margin: var(--nav-item-margin);
   }
 
-  .nav .nav-item + .nav-item {
-    margin-top: 10px; /* Adjust the margin value as needed */
-  }
-  
   
   /* Header
       ============================= */
@@ -267,6 +263,10 @@
          position: relative;
          z-index: 3;
          background: transparent;
+  }
+
+  .header-container{
+    align-items: center;
   }
   
   
